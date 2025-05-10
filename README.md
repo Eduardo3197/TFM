@@ -41,7 +41,7 @@ Para la estructura y ejecución del proyecto se ha seguido el marco metodológic
 ## Estructura del Repositorio
 ├── TFM.ipynb # Notebook principal con el análisis completo
 
-├── app_ventas_streamlit.py # Aplicación web para predicción de ventas
+├── app_ventas_streamlit.py # Aplicación web para predicción de ventas. Debido al gran peso de los archivos .pkls se comparte el siguiente enlace con acceso a ellos: https://drive.google.com/drive/folders/1nt_3xGXsvDHiKPTGBCOrTSHOd8qNQuxS?usp=drive_link
 
 ├── README.md # Descripción del proyecto
 
