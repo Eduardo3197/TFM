@@ -1,5 +1,9 @@
 # Trabajo Final de Máster. Sistema de predicción de ventas semanales por tienda y departamento: Enfoque basado en CRISP-DM para la toma de decisiones
 
+Master Universitario en Big Data y Data Science <br/>
+Alumno. Eduardo Carrasco Taboada <br/>
+Director TFM. Horacio Daniel Kuna <br/>
+
 Este repositorio contiene el desarrollo del Trabajo Final de Máster (TFM), cuyo objetivo principal es la construcción de un modelo predictivo capaz de estimar la demanda 
 semanal de ventas en un entorno minorista. El proyecto se enmarca dentro del máster en Big Data y Data Science y está orientado a la toma de decisiones estratégicas en la gestión de inventarios y recursos usando la metodologia CRISP-DM.
 
@@ -40,6 +44,8 @@ Para la estructura y ejecución del proyecto se ha seguido el marco metodológic
 
 ## Estructura del Repositorio
 ├── TFM.ipynb # Notebook principal con el análisis completo
+
+├── Datasets # Datasets usados para el proyecto
 
 ├── app_ventas_streamlit.py # Aplicación web para predicción de ventas. Debido al gran peso de los archivos .pkls se comparte el siguiente enlace con acceso a ellos: [https://drive.google.com/drive/folders/1nt_3xGXsvDHiKPTGBCOrTSHOd8qNQuxS?usp=drive_link](https://drive.google.com/drive/folders/1nt_3xGXsvDHiKPTGBCOrTSHOd8qNQuxS?usp=drive_link)
 
